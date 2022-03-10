@@ -1,3 +1,3 @@
 # tailwind-projects
 
-- Notification Component : https://Practice.testoot.repl.co
+- Notification Component : https://mayurmarvel.github.io/tailwind-projects/notification-component/
